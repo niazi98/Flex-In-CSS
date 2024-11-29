@@ -1,0 +1,50 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 8%;
+
+}
+
+.box {
+    margin-right: 15px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid brown;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#id1 {
+    width: 50%;
+    height: 50%;
+    border: 2px solid black;
+    border-radius: 50%;
+
+
+
+}
+
+#id2 {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+#id3 {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+#id4 {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    border: 2px solid black;
+}
